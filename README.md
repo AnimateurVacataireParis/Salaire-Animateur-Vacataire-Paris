@@ -17,4 +17,8 @@ Lorsque vous effectuez une vacation, ajoutez la grace à ce bloc, vous devez ent
 <br />Cette autorisation ne vous sera demandée qu'une seule fois vous n'aurez plus à refaire cette manipulation.  
 <br />Comme vous pouvez le voir, une nouvelle feuille est créée avec le mois et l'année contenent toutes les informations du mois concerné, chaque fois que vous entrez une date d'un mois différent une nouvelle feuille se crée :
 <img align="center" width="300" src="https://user-images.githubusercontent.com/99233749/152925081-5ba87fa5-f100-4a94-b12a-4fd62e809f7b.png">
-
+<br />  <br />  <br />  <br />  <br />  <br />  
+<img align="right" width="300" src="https://user-images.githubusercontent.com/99233749/152929272-fff9a960-b5ef-48b4-9ff1-0c28773f7358.png">
+Lorsque vous recevez votre fiche de paie, vous devez reporter les informations concernant les vacations que vous avez effectuées grace à ce bloc.  
+<br />Les colonnes à regarder sur la fiche de paie sont indiquées entre parenthèses.  
+<br />Il est inutile de rentrer les lignes de la fiche de paie dont le code n'est pas dans la liste, de plus cela ne fonctionnera pas. ( le code V92 correspond au repas, si vous ne mangez pas à la cantine signalez le à votre UGD )
