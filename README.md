@@ -33,3 +33,10 @@ Lorsque vous recevez votre fiche de paie, vous devez reporter les informations c
 La liste de tout les services se trouve dans ce bloc, si le taux horaire, le nombre d'heure ou les horaires changent vous pouvez les modifier, ce sera pris en compte dans les calculs, en revanche, il ne faut pas mettre un code différent de ceux qui sont déjà présent.
 <br /><br />
 Dans la dernière ligne, vous pouvez créer un service, il faut seulement veiller à utiliser un code qui est dans la liste déroulante.
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+Maintenant que vous avez entré toutes les info vous trouverez le resultat des calculs dans les autre blocs, il y a la liste des heures non payées, les heures trop payées et une estimation de votre salaire brut !  
+<br />
+Dans le dernier bloc une école s'ajoutera à chaque fois que vous entrez une nouvelle école dans le bloc ajouter une vacation.  
+<br />
+Et voilà, c'est tout !
